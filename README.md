@@ -36,4 +36,12 @@ Markdownมีหัวข้อก็คือ
 สองCode Blocks
 ใช้เครื่องหมายขีดเอียงๆข้างบนซ้าย3ตัวจะได้Code Blocks
 
+10.Task Lists
+– [ ] สำหรับ Task ที่ไม่ได้ถูก Checked
+
+11.Tables
+การทำตารางใน Markdown
+
+12.Emojis
+แทรกอิโมจิได้
 
